@@ -1,0 +1,10 @@
+{
+  "showFrontmatter": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "tabSize": 4,
+  "vimMode": true
+}
